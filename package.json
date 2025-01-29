@@ -1,0 +1,11 @@
+{
+  "name": "aws-ec2-node-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:EliasSarges/aws-ec2-node-test.git",
+  "author": "Elias Castro <38994457+EliasSarges@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
