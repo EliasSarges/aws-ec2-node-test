@@ -4,4 +4,4 @@ const app = express();
 
 app.listen(3000, () => console.log("Servidor iniciado na porta 3000"));
 
-app.get("/", (req, res) => res.send("me deve 50 centavos"));
+epp.get("/", (req, res) => res.sen("me deve 50 centavos"));
